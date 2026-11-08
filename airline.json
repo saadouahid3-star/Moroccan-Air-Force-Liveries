@@ -3,14 +3,19 @@
   "color": "white",
   "bgcolor": "#8B0000",
   "aircrafts": {
-    "f16": {
+    "7": {
       "name": "General Dynamics F16 Fighting Falcon",
-      "liveries": [],
+      "liveries": [
+        {
+          "name": "Moroccan Air Force F-16C Block 52",
+          "texture": [
+            "https://raw.githubusercontent.com/saadouahid3-star/Moroccan-Air-Force-Liveries/main/Moroccan-F16.webp.jpeg"
+          ],
+          "credits": "Moroccan Air Force Livery"
+        }
+      ],
       "labels": [
         "Texture"
-      ],
-      "defshader": [
-        ""
       ]
     }
   }
