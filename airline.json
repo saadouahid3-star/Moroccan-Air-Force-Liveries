@@ -1,0 +1,17 @@
+{
+  "name": "Royal Moroccan Air Force",
+  "color": "white",
+  "bgcolor": "#8B0000",
+  "aircrafts": {
+    "f16": {
+      "name": "General Dynamics F16 Fighting Falcon",
+      "liveries": [],
+      "labels": [
+        "Texture"
+      ],
+      "defshader": [
+        ""
+      ]
+    }
+  }
+}
